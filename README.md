@@ -22,6 +22,6 @@
   <img src="https://images.icon-icons.com/2415/PNG/512/css_plain_logo_icon_146573.png" width="100">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="100">
   <img src="https://img.icons8.com/color/600/spring-logo.png" width="100">
-  <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="100">
 </div>
   
