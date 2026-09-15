@@ -9,7 +9,7 @@
 ### Sobre mí
 
 * 🎓 Estudiante de **Ingeniería en Computación** en CU UAEM Atlacomulco - UAEMéx
-* ✨ Actualmente me encuentro cursando el último semestre 
+* ✨ Developer
 * 💼 Estudiante de programación en DEV.F
 
 ---
